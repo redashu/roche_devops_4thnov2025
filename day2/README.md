@@ -111,3 +111,6 @@ local_file.ashu-data
 
 <img src="tfvar1.png">
 
+### terraform provisioner 
+
+<img src="tfpro1.png">
